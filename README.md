@@ -2,7 +2,7 @@
 Created By Tao Lin, Lawrence Liu, and Anthony Yang
 
 Written originally with BitBucket
-do Not copy code
+DO NOT copy code
 
 To play the game click on link below
 
